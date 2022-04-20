@@ -1,0 +1,2 @@
+# impede importação do modules para o github
+/node_modules
